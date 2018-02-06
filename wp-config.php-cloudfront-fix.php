@@ -1,5 +1,5 @@
 // this allows you to run wordpress as a different url than the public cloudfront cname url.
-// add this cod to wp-options.php before the DB connection info.
+// add this cod to wp-config.php before the DB connection info.
 
 
 // ******    cloudfront customization    ****** //
